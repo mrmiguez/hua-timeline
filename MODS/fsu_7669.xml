@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <titleInfo>
+    <title>1970 Fine Arts Festival and Opening of the Fine Arts Building</title>
+  </titleInfo>
+  <identifier type="digitool">3163807</identifier>
+  <name type="personal">
+    <namePart>Heritage Protocol Photograph Collection</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <publisher>Heritage Protocol, Florida State University, Tallahassee, Florida.</publisher>
+    <dateIssued keyDate="yes">April 24, 1970</dateIssued>
+  </originInfo>
+  <note>B/W; aprox. 8x10 (Accession No. HP-2007-00G).</note>
+  <subject>
+    <topic>Florida State University</topic>
+  </subject>
+  <subject>
+    <topic>Fine Arts Building</topic>
+  </subject>
+  <subject>
+    <topic>Fine Arts Festival</topic>
+  </subject>
+  <subject>
+    <topic>Randall, Tony</topic>
+  </subject>
+  <subject>
+    <topic>Circa 1970s</topic>
+  </subject>
+  <location displayLabel="purl">
+    <url>http://purl.flvc.org/fcla/dt/3163807</url>
+  </location>
+  <accessCondition>This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</accessCondition>
+  <accessCondition type="restriction on access">This collection is open to all researchers.</accessCondition>
+  <identifier type="IID">FSDT3163807</identifier>
+  <identifier type="fedora">fsu:7669</identifier>
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+      <flvc:objectHistory source="digitool">admin_unit="FSU01", ingest_id="ing9341", creator="creator:AHAUTAU", creation_date="2011-04-20 16:54:38", modified_by="creator:AHAUTAU", modification_date="2011-04-20 16:54:53"</flvc:objectHistory>
+    </flvc:flvc>
+  </extension>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Heritage Protocol General Photograph Collection</title>
+    </titleInfo>
+    <location>
+      <physicalLocation>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</physicalLocation>
+      <url displayLabel="Finding Aid">http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=445</url>
+    </location>
+  </relatedItem>
+</mods:mods>

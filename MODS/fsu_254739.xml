@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <identifier type="IID">FSU_HPUA_catalog_1886_1887</identifier>
+  <titleInfo lang="eng">
+    <title>Catalogue of the Seminary West of the Suwannee River for Session 1886-7 and announcements for Session of 1887-8</title>
+  </titleInfo>
+  <name type="corporate" authority="lcnaf" valueURI="http://id.loc.gov/authorities/names/n2015043523" authorityURI="http://id.loc.gov/authorities/names">
+    <namePart>Seminary West of the Suwannee River (Tallahassee, Fla.)</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators">Creator</roleTerm>
+      <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators">cre</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001774" authority="gmgpc" authorityURI="http://id.loc.gov/vocabulary/graphicMaterials">Catalogs</genre>
+  <originInfo>
+    <dateIssued encoding="w3cdtf">1887</dateIssued>
+    <place>
+      <placeTerm>Tallahassee, Florida</placeTerm>
+    </place>
+    <issuance>serial</issuance>
+  </originInfo>
+  <language>
+    <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <extent>12 pages</extent>
+    <extent>21 x 14 cm.</extent>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <form type="media" authority="rdamedia">computer</form>
+    <form type="carrier" authority="rdacarrier">online resource</form>
+  </physicalDescription>
+  <subject authority="lctgm" authorityURI="http://id.loc.gov/vocabulary/graphicMaterials">
+    <topic valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011227">Universities &amp; colleges</topic>
+  </subject>
+  <subject authority="tgn">
+    <geographicCode>7013938</geographicCode>
+  </subject>
+  <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107">
+    <topic>Universities and colleges</topic>
+    <topic>Curricula</topic>
+    <genre>Catalogs</genre>
+  </subject>
+  <accessCondition type="use and reproduction">This object is posted publicly for non-commercial, educational, and research use only excluding printed publication. For more information about this object or to request permission to publish, broadcast, or otherwise reproduce from this object, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida: https://www.lib.fsu.edu/hp-ua/contact-us.</accessCondition>
+  <location>
+    <physicalLocation>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</physicalLocation>
+  </location>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+  </recordInfo>
+  <identifier type="fedora">fsu:254739</identifier>
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+    </flvc:flvc>
+  </extension>
+  <location displayLabel="purl">
+    <url>http://purl.flvc.org/fsu/fd/FSU_HPUA_catalog_1886_1887</url>
+  </location>
+</mods:mods>

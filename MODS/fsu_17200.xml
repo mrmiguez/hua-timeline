@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+    </flvc:flvc>
+  </extension>
+  <titleInfo>
+    <title>Physical Education Building</title>
+  </titleInfo>
+  <identifier type="IID">FSUSOD_OS1_photo_001</identifier>
+  <physicalDescription>
+    <extent>11 x 11 in. mounted</extent>
+  </physicalDescription>
+  <abstract displayLabel="Summary">Physical Education Building circa the 1940s.</abstract>
+  <location>
+    <physicalLocation>Special Collections and Archives, Florida State University</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>Florida State University School of Dance Collection</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  <location displayLabel="purl">
+    <url>http://purl.flvc.org/fsu/fd/FSUSOD_OS1_photo_001</url>
+  </location>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="marcgt">Photographs</genre>
+  <originInfo>
+    <issuance>single unit</issuance>
+    <dateCreated>ca. 1940</dateCreated>
+  </originInfo>
+  <subject authority="NAF">
+    <topic>Katherine W. Montgomery Hall (Tallahassee, Fla.)</topic>
+  </subject>
+  <subject authority="NAF">
+    <topic>Florida State College for Women</topic>
+  </subject>
+  <subject authority="LCSH">
+    <topic>Buildings</topic>
+  </subject>
+  <accessCondition type="restrictionOnAccess">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections and Archives, Florida State University Libraries, Tallahassee, Florida.</accessCondition>
+  <subject authority="NAF">
+    <topic>Florida State University--School of Dance</topic>
+  </subject>
+  <subject authority="Local">
+    <temporal>1940-1950</temporal>
+  </subject>
+  <identifier type="fedora">fsu:17200</identifier>
+</mods:mods>

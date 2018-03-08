@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <titleInfo>
+    <title>1915-1916 Varsity Basketball Team</title>
+  </titleInfo>
+  <identifier type="digitool">79232</identifier>
+  <name type="personal">
+    <namePart>Seymour, Harriett Smith</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <publisher>Heritage Protocol, Florida State University, Tallahassee, Florida.</publisher>
+    <dateIssued keyDate="yes">circa 1915-1916</dateIssued>
+  </originInfo>
+  <note>Personal photographs of Harriett Smith Seymour, who was a student at Florida State College for Women in the 1910s. These photographs are a part of the Harriett Kirk Crago Collection, 1916-1919, 1940s. (Accession No. HP-2007-005). B/W.</note>
+  <subject>
+    <topic>Florida State College for Women</topic>
+  </subject>
+  <subject>
+    <topic>Seymour, Harriett Smith</topic>
+  </subject>
+  <subject>
+    <topic>Campus Scenes</topic>
+  </subject>
+  <subject>
+    <topic>Sports</topic>
+  </subject>
+  <subject>
+    <topic>Basketball</topic>
+  </subject>
+  <location displayLabel="purl">
+    <url>http://purl.flvc.org/fcla/dt/79232</url>
+  </location>
+  <accessCondition>This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</accessCondition>
+  <accessCondition type="restriction on access">This collection is open to all researchers.</accessCondition>
+  <identifier type="IID">FSDT79232</identifier>
+  <identifier type="fedora">fsu:9351</identifier>
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+      <flvc:objectHistory source="digitool">admin_unit="FSU01", ingest_id="ing2886", creator="creator:FSUEDDIE", creation_date="2008-09-24 10:41:41", modified_by="super:FSUEDDIE", modification_date="2011-03-29 18:14:35"</flvc:objectHistory>
+    </flvc:flvc>
+  </extension>
+  <subject authority="Local">
+    <temporal>1910-1920</temporal>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Harriett Kirk Crago Collection, ca. 1916-1919, ca. 1940-1949</title>
+    </titleInfo>
+    <location>
+      <physicalLocation>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</physicalLocation>
+      <url displayLabel="Finding Aid">http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=6</url>
+    </location>
+  </relatedItem>
+</mods:mods>

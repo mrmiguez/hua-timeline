@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <titleInfo>
+    <title>Beverly Jean Fogarty and Lil Weekly at Camp Flastacowo</title>
+  </titleInfo>
+  <identifier type="digitool">77041</identifier>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="w3cdtf">ca. 1946</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Florida State College for Women</topic>
+  </subject>
+  <subject>
+    <topic>Florida State University</topic>
+  </subject>
+  <subject>
+    <topic>Recreation</topic>
+  </subject>
+  <location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/77041</url></location>
+  <identifier type="IID">FSDT77041</identifier>
+  <identifier type="fedora">fsu:12653</identifier>
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+      <flvc:objectHistory source="digitool">admin_unit="FSU01", ingest_id="ing2692", creator="creator:FSUEDDIE", creation_date="2008-08-11 17:18:12", modified_by="creator:FSUEDDIE", modification_date="2011-08-25 10:15:04"</flvc:objectHistory>
+    </flvc:flvc>
+  </extension>
+  <subject authority="Local">
+    <temporal>1940-1950</temporal>
+  </subject>
+  <identifier type="IID">Smith-001</identifier>
+  <genre authority="TGM">Photographs</genre>
+  <subject>
+    <geographic>Florida State University Reservation (Fla.)</geographic>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Weekly, Lil</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Smith, Beverly Jean Fogarty</namePart>
+    </name>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Beverly Jean Fogarty Smith Collection, 1946-1952</title>
+    </titleInfo>
+    <location>
+      <physicalLocation>Heritage Protocol &amp; University Archives, Florida State University Libraries.</physicalLocation>
+      <url displayLabel="Finding Aid" note="(HP-2008-001)">http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=47</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</accessCondition>
+<location>
+        <physicalLocation>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</physicalLocation>
+    </location>
+</mods:mods>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <titleInfo>
+    <nonSort>The</nonSort>
+    <title>Argo 1900-1901</title>
+  </titleInfo>
+  <identifier type="IID">FSUYB_1900_1901</identifier>
+  <name type="personal">
+    <namePart>West Florida Seminary</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateIssued>1901</dateIssued>
+  </originInfo>
+  <abstract displayLabel="Summary">This edition was dedicated to Albert Alexander Murphee.</abstract>
+  <location>
+    <physicalLocation>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</physicalLocation>
+  </location>
+  <identifier type="fedora">fsu:21806</identifier>
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+    </flvc:flvc>
+  </extension>
+  <typeOfResource>text</typeOfResource>
+  <location displayLabel="purl">
+    <url>http://purl.flvc.org/fsu/fd/FSUYB_1900_1901</url>
+  </location>
+  <accessCondition type="useAndReproduction">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</accessCondition>
+</mods:mods>

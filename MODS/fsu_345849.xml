@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <identifier type="IID">FSU_HPUA_2014111_B37_F3_003</identifier>
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+    </flvc:flvc>
+  </extension>
+  <titleInfo>
+    <title>1962 College of Nursing Class Photo</title>
+  </titleInfo>
+  <name type="corporate" authority="lcnaf" valueURI="http://id.loc.gov/authorities/names/no2016020199" authorityURI="http://id.loc.gov/authorities/names">
+    <namePart>Florida State University. College of Nursing</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators">Creator</roleTerm>
+      <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators">cre</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007721" authority="gmgpc" authorityURI="http://id.loc.gov/vocabulary/graphicMaterials">Photographs</genre>
+  <originInfo>
+    <dateIssued encoding="w3cdtf" qualifier="inferred">1962</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>13 x 18 cm.</extent>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <abstract displayLabel="Summary">College of Nursing Class Photo; 1962</abstract>
+  <subject authority="lctgm" authorityURI="http://id.loc.gov/vocabulary/graphicMaterials">
+    <topic valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011227">Universities &amp; colleges</topic>
+  </subject>
+  <subject authority="lctgm" authorityURI="http://id.loc.gov/vocabulary/graphicMaterials">
+    <topic valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007143">Nurses</topic>
+  </subject>
+  <subject authority="lctgm" authorityURI="http://id.loc.gov/vocabulary/graphicMaterials">
+    <topic valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004670">Graduation Ceremonies</topic>
+  </subject>
+  <subject authority="tgn">
+    <geographicCode>7013606</geographicCode>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>College of Nursing Collection, 1948-2014</title>
+    </titleInfo>
+    <location>
+      <physicalLocation>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</physicalLocation>
+      <url displayLabel="Finding Aid">http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=4049</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>dacs</descriptionStandard>
+    <recordCreationDate>2016-07-15</recordCreationDate>
+  </recordInfo>
+  <location displayLabel="purl">
+    <url>http://purl.flvc.org/fsu/fd/FSU_HPUA_2014111_B37_F3_003</url>
+  </location>
+  <identifier type="fedora">fsu:345849</identifier>
+</mods:mods>

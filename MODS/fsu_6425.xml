@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <titleInfo>
+    <title>"East Hall"</title>
+  </titleInfo>
+  <identifier type="digitool">79574</identifier>
+  <name type="personal">
+    <namePart>Benson, Laura Quayle</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <publisher>Heritage Protocol, Florida State University, Tallahassee, Florida.</publisher>
+    <dateIssued keyDate="yes">circa 1917-1919</dateIssued>
+  </originInfo>
+  <note>Personal photographs of Florida State College for Women student Laura Quayle Benson (formerly Laura Quayle), class of 1919 (L.I.).  These photographs are a part of the Laura Quayle Benson Scrapbook, 1917-1919 (Accession No. HP-2007-041). B/W.</note>
+  <subject>
+    <topic>Florida State College for Women</topic>
+  </subject>
+  <subject>
+    <topic>Benson, Laura Quayle</topic>
+  </subject>
+  <subject>
+    <topic>Campus Scenes</topic>
+  </subject>
+  <subject>
+    <topic>East Hall</topic>
+  </subject>
+  <location displayLabel="purl">
+    <url>http://purl.flvc.org/fcla/dt/79574</url>
+  </location>
+  <accessCondition>This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws.  To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</accessCondition>
+  <accessCondition type="restriction on access">This collection is open to all researchers.</accessCondition>
+  <identifier type="IID">FSDT79574</identifier>
+  <identifier type="fedora">fsu:6425</identifier>
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+      <flvc:objectHistory source="digitool">admin_unit="FSU01", ingest_id="ing2919", creator="creator:FSUEDDIE", creation_date="2008-09-30 12:47:57", modified_by="creator:FSUEDDIE", modification_date="2008-09-30 12:48:13"</flvc:objectHistory>
+    </flvc:flvc>
+  </extension>
+  <subject authority="Local">
+    <temporal>1910-1920</temporal>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Laura Quayle Benson Scrapbook, 1917-1919</title>
+    </titleInfo>
+    <location>
+      <physicalLocation>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</physicalLocation>
+      <url displayLabel="Finding Aid">http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=309</url>
+    </location>
+  </relatedItem>
+</mods:mods>

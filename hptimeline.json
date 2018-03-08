@@ -1,0 +1,120 @@
+{
+    "scale": "human",
+	"title": {
+		        "media": {
+		            "caption": "",
+		            "credit": "",
+		            "url": "http://myweb.fsu.edu/mmiguez/timeline/assets/images/heritageprotocol-graphic2.jpg",
+		            "thumb": 	""
+		        },
+	            "text": {
+	                "headline": "Welcome to the Heritage Protocol Timeline",
+	                "text": "<p>This interactive timeline highlights a curated collection of Florida State University's history.</p><p>Click on the arrow to the right to learn more.</p>"
+	            }
+	    },
+    "events": [
+        {
+            "start_date": {
+                "year":			"1928",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "FSCW",
+            "media": {
+                "caption": "CAPTION",
+                "credit": "CREDIT",
+                "url": "https://fsu.digital.flvc.org/islandora/object/fsu%3A6296/datastream/JPG/view",
+                "thumb": "https://fsu.digital.flvc.org/islandora/object/fsu%3A6296/datastream/TN/view"
+            },
+            "text": {
+                "headline": "1928-1929 F Goats",
+                "text": "TEXT"
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2011",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "FSU",
+            "media": {
+                "caption": "https://fsu-test.digital.flvc.org/islandora/object/fsu%3A7976",
+                "credit": "https://fsu-test.digital.flvc.org/islandora/object/fsu%3A7976",
+                "url": "https://fsu.digital.flvc.org/islandora/object/fsu%3A161595/datastream/PREVIEW/view",
+                "thumb": "https://fsu.digital.flvc.org/islandora/object/fsu%3A161595/datastreams/TN/view"
+            },
+            "text": {
+                "headline": "25th Anniversary Celebration of Dance Repertory Theatre",
+                "text": ""
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2005",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "FSU",
+            "media": {
+                "caption": "Supporting Act: Cex, Weather",
+                "credit": "<a href='https://fsu-test.digital.flvc.org/islandora/object/fsu%3A7974'>DigiNole link</a>",
+                "url": "https://fsu-test.digital.flvc.org/islandora/object/fsu%3A7974/datastream/JPG/view",
+                "thumb": 	"https://fsu-test.digital.flvc.org/islandora/object/fsu%3A7974/datastream/TN/view"
+            },
+            "text": {
+                "headline": "Aloha",
+                "text": "Supporting Act: Cex, Weather."}
+            },
+        {
+      "start_date": {
+        "month": "11",
+        "day": "28",
+        "display_date": "28 November 1929",
+        "year": "1929"
+      },
+      "text": {
+        "headline": "Odd-Even Game (Thanksgiving)"
+      },
+      "group": "FSCW",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:8933/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:8933/datastream/TN/view"
+      },
+      "unique_id": "fsu:8933"
+    },
+        {
+      "start_date": {
+        "month": "3",
+        "day": "7",
+        "display_date": "1981",
+        "year": "1981"
+      },
+      "text": {
+        "headline": "Bobby Bowden and Don Fauls at the Miami Orange Bowl 1981, Florida State vs. Oklahoma"
+      },
+      "group": "FSU",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:12753/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:12753/datastream/TN/view"
+      },
+      "unique_id": "fsu:12753"
+    }
+
+    ]
+}

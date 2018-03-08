@@ -1,0 +1,494 @@
+{
+  "events": [
+    {
+      "text": {
+        "headline": "Odd-Even Game (Thanksgiving)"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:8933",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:8933/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:8933/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/80494"
+      },
+      "start_date": {
+        "day": "28",
+        "display_date": "28 November 1929",
+        "month": "11",
+        "year": "1929"
+      }
+    },
+    {
+      "text": {
+        "headline": "1915-1916 Varsity Basketball Team"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:9351",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:9351/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:9351/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/79232"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "circa 1915-1916",
+        "month": "3",
+        "year": "1915"
+      }
+    },
+    {
+      "text": {
+        "headline": "\"Practise School\""
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:6476",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:6476/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:6476/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/79626"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "circa 1917-1919",
+        "month": "3",
+        "year": "1917"
+      }
+    },
+    {
+      "text": {
+        "headline": "1962 College of Nursing Class Photo",
+        "text": "College of Nursing Class Photo; 1962"
+      },
+      "group": "FSU",
+      "unique_id": "fsu:345849",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:345849/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:345849/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fsu/fd/FSU_HPUA_2014111_B37_F3_003"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "1962",
+        "month": "3",
+        "year": "1962"
+      }
+    },
+    {
+      "text": {
+        "headline": "1984 Senior Class",
+        "text": "1984 FSU Injectors; Third Place Champions"
+      },
+      "group": "FSU",
+      "unique_id": "fsu:404655",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:404655/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:404655/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fsu/fd/FSU_HPUA_2014111_B48_F5_001"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "1984",
+        "month": "3",
+        "year": "1984"
+      }
+    },
+    {
+      "text": {
+        "headline": "Bobby Bowden and Don Fauls at the Miami Orange Bowl 1981, Florida State vs. Oklahoma"
+      },
+      "group": "FSU",
+      "unique_id": "fsu:12753",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:12753/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:12753/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/2796352"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "1981",
+        "month": "3",
+        "year": "1981"
+      }
+    },
+    {
+      "text": {
+        "headline": "Physical Education Building",
+        "text": "Physical Education Building circa the 1940s."
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:17200",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:17200/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:17200/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fsu/fd/FSUSOD_OS1_photo_001"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "ca. 1940",
+        "month": "3",
+        "year": "1940"
+      }
+    },
+    {
+      "text": {
+        "headline": "Osceola riding renegade "
+      },
+      "group": "FSU",
+      "unique_id": "fsu:252072",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:252072/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:252072/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fsu/fd/FSU_HPUA2008022_1180b_22"
+      },
+      "start_date": {
+        "day": "11",
+        "display_date": "1980-11",
+        "month": "3",
+        "year": "1980"
+      }
+    },
+    {
+      "text": {
+        "headline": "Education Building"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:6512",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:6512/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:6512/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/79662"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "circa 1917-1919",
+        "month": "3",
+        "year": "1917"
+      }
+    },
+    {
+      "text": {
+        "headline": "Mary Caldwell and Ella Maude Posing on Frozen Fountain at Mid-Year Graduation"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:5788",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:5788/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:5788/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/2171701"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "1939",
+        "month": "3",
+        "year": "1939"
+      }
+    },
+    {
+      "text": {
+        "headline": "Dining Room Girls at FSCW - Ushers"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:8826",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:8826/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:8826/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/107714"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "1933",
+        "month": "3",
+        "year": "1933"
+      }
+    },
+    {
+      "text": {
+        "headline": "Catalogue of the Seminary West of the Suwannee River for Session 1886-7 and announcements for Session of 1887-8"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:254739",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu%3A254743/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:254739/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fsu/fd/FSU_HPUA_catalog_1886_1887"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "1887",
+        "month": "3",
+        "year": "1887"
+      }
+    },
+    {
+      "text": {
+        "headline": "Beverly Jean Fogarty and Lil Weekly at Camp Flastacowo"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:12653",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:12653/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:12653/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/77041"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "ca. 1946",
+        "month": "3",
+        "year": "1946"
+      }
+    },
+    {
+      "text": {
+        "headline": "\"Administration Building - Winter\""
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:6419",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:6419/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:6419/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/79568"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "circa 1917-1919",
+        "month": "3",
+        "year": "1917"
+      }
+    },
+    {
+      "text": {
+        "headline": "President Conradi and Students in Procession"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:12245",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:12245/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:12245/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/228386"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "1934",
+        "month": "3",
+        "year": "1934"
+      }
+    },
+    {
+      "text": {
+        "headline": "\"The Gymnasium\""
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:6426",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:6426/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:6426/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/79575"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "circa 1917-1919",
+        "month": "3",
+        "year": "1917"
+      }
+    },
+    {
+      "text": {
+        "headline": "Jullian Lloyd and Millicent Johnnie in An Evening Of Dance",
+        "text": "Jullian Lloyd and Millicent Johnnie dancing together in \"An Evening Of Dance\" in 2001."
+      },
+      "group": "FSU",
+      "unique_id": "fsu:64166",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:64166/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:64166/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fsu/fd/FSUSOD_TEMP5_photo_084"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "2001",
+        "month": "3",
+        "year": "2001"
+      }
+    },
+    {
+      "text": {
+        "headline": "Jewell Cooper at the Freshman-Junior Wedding"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:5388",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:5388/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:5388/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/1925048"
+      },
+      "start_date": {
+        "day": "3",
+        "display_date": "3 October 1925",
+        "month": "10",
+        "year": "1925"
+      }
+    },
+    {
+      "text": {
+        "headline": "National High Magnetic Field Laboratory Experiment"
+      },
+      "group": "FSU",
+      "unique_id": "fsu:408199",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:408199/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:408199/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fsu/fd/FSU_HPUA_1996669DB_015"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "1996",
+        "month": "3",
+        "year": "1996"
+      }
+    },
+    {
+      "text": {
+        "headline": "Marion Coleman and Elsie Hargrave with Friends at Commencement 1918"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:13126",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:13126/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:13126/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/2782609"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "circa 1918",
+        "month": "3",
+        "year": "1918"
+      }
+    },
+    {
+      "text": {
+        "headline": "Edward Conradi, A.M., Ph.D. (Clark), President, Professor of Philosophy"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:14005",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:14005/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:14005/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/3318716"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "circa 1924-1927",
+        "month": "3",
+        "year": "1924"
+      }
+    },
+    {
+      "text": {
+        "headline": "Bryan Hall"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:9299",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:9299/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:9299/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/79180"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "1918",
+        "month": "3",
+        "year": "1918"
+      }
+    },
+    {
+      "text": {
+        "headline": "\"East Hall\""
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:6425",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:6425/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:6425/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/79574"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "circa 1917-1919",
+        "month": "3",
+        "year": "1917"
+      }
+    },
+    {
+      "text": {
+        "headline": "The Argo 1900-1901",
+        "text": "This edition was dedicated to Albert Alexander Murphee."
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:21806",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu%3A21807/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:21806/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fsu/fd/FSUYB_1900_1901"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "1901",
+        "month": "3",
+        "year": "1901"
+      }
+    },
+    {
+      "text": {
+        "headline": "1970 Fine Arts Festival and Opening of the Fine Arts Building"
+      },
+      "group": "FSU",
+      "unique_id": "fsu:7669",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:7669/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:7669/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/3163807"
+      },
+      "start_date": {
+        "day": "24",
+        "display_date": "April 24, 1970",
+        "month": "4",
+        "year": "1970"
+      }
+    },
+    {
+      "text": {
+        "headline": "Group Photo (\"F\" Club Goats)"
+      },
+      "group": "FSCW",
+      "unique_id": "fsu:8548",
+      "media": {
+        "url": "https://fsu.digital.flvc.org/islandora/object/fsu:8548/datastream/JPG/view",
+        "thumbnail": "https://fsu.digital.flvc.org/islandora/object/fsu:8548/datastream/TN/view",
+        "credit": "http://purl.flvc.org/fcla/dt/101805"
+      },
+      "start_date": {
+        "day": "7",
+        "display_date": "Spring 1929",
+        "month": "3",
+        "year": "1929"
+      }
+    }
+  ],
+  "title": {
+    "text": {
+      "headline": "Welcome to the Heritage Protocol Timeline",
+      "text": "<p>This interactive timeline highlights a curated collection of Florida State University's history.</p><p>Click on the arrow to the right to learn more.</p>"
+    },
+    "media": {
+      "url": "http://myweb.fsu.edu/mmiguez/timeline/assets/images/heritageprotocol-graphic2.jpg",
+      "caption": "",
+      "credit": "",
+      "thumb": ""
+    },
+    "background": {
+      "opacity": "50",
+      "color": "#782F40"
+    }
+  },
+  "scale": "human"
+}

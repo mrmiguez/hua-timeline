@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <identifier type="IID">FSU_HPUA_1996669DB_015</identifier>
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+    </flvc:flvc>
+  </extension>
+  <titleInfo>
+    <title>National High Magnetic Field Laboratory Experiment</title>
+  </titleInfo>
+  <name type="corporate" authority="naf" valueURI="http://id.loc.gov/authorities/names/n80126238">
+    <namePart>Florida State University</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators">creator</roleTerm>
+      <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators">cre</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003973" authority="gmgpc">film negatives</genre>
+  <originInfo>
+    <dateCreated encoding="w3cdtf">1996</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 negative</extent>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <subject authority="lctgm" authorityURI="http://id.loc.gov/vocabulary/graphicMaterials">
+    <topic valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008822">Research facilities</topic>
+  </subject>
+  <subject authority="tgn">
+    <geographicCode>7013938</geographicCode>
+  </subject>
+  <subject>
+    <name type="corporate" authority="naf" valueURI="http://id.loc.gov/authorities/names/n91122280">
+      <namePart>National High Magnetic Field Laboratory</namePart>
+    </name>
+  </subject>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/UND/1.0/" type="use and reproduction">This object is posted publicly for non-commercial, educational, and
+    research use only excluding printed publication. For more information about this object or to
+    request permission to publish, broadcast, or otherwise reproduce from this object, please
+    contact Heritage Protocol &amp; University Archives, Florida State University Libraries,
+    Tallahassee, Florida: https://www.lib.fsu.edu/hp-ua/contact-us.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Florida State University Historical Photographs</title>
+    </titleInfo>
+    <location>
+      <physicalLocation>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</physicalLocation>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>dacs</descriptionStandard>
+    <recordCreationDate>2017-05-15</recordCreationDate>
+  </recordInfo>
+  <location displayLabel="purl">
+    <url>http://purl.flvc.org/fsu/fd/FSU_HPUA_1996669DB_015</url>
+  </location>
+  <identifier type="fedora">fsu:408199</identifier>
+</mods:mods>

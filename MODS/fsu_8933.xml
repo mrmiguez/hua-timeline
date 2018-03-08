@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <titleInfo>
+    <title>Odd-Even Game (Thanksgiving)</title>
+  </titleInfo>
+  <identifier type="digitool">80494</identifier>
+  <name type="personal">
+    <namePart>Autrey, Elizabeth and Katharine</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <publisher>Heritage Protocol, Florida State University, Tallahassee, Florida.</publisher>
+    <dateIssued keyDate="yes">28 November 1929</dateIssued>
+  </originInfo>
+  <note>Personal photographs of Florida State College for Women students Elizabeth Parker Autrey, class of 1933 (BS, Physical Education) and her sister Katharine Autrey, class of 1939 (BS, Commerce). These photographs are a part of the Elizabeth and Katharine Autrey Collection, 1931-1999 (Accession No. HP-2007-051). B/W.</note>
+  <subject>
+    <topic>Florida State College for Women</topic>
+  </subject>
+  <subject>
+    <topic>Autrey, Elizabeth</topic>
+  </subject>
+  <subject>
+    <topic>Autrey, Katharine</topic>
+  </subject>
+  <subject>
+    <topic>Basketball</topic>
+  </subject>
+  <subject>
+    <topic>Odd Teams</topic>
+  </subject>
+  <subject>
+    <topic>Even Teams</topic>
+  </subject>
+  <subject>
+    <topic>Sports</topic>
+  </subject>
+  <location displayLabel="purl">
+    <url>http://purl.flvc.org/fcla/dt/80494</url>
+  </location>
+  <accessCondition>This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</accessCondition>
+  <accessCondition type="restriction on access">This collection is open to all researchers.</accessCondition>
+  <identifier type="IID">FSDT80494</identifier>
+  <identifier type="fedora">fsu:8933</identifier>
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+      <flvc:objectHistory source="digitool">admin_unit="FSU01", ingest_id="ing2952", creator="creator:FSUEDDIE", creation_date="2008-10-24 10:40:36", modified_by="super:FSUEDDIE", modification_date="2012-11-30 12:38:57"</flvc:objectHistory>
+    </flvc:flvc>
+  </extension>
+  <subject authority="Local">
+    <temporal>1920-1930</temporal>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Elizabeth and Katharine Autrey Collection, 1928-1999</title>
+    </titleInfo>
+    <location>
+      <physicalLocation>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</physicalLocation>
+      <url displayLabel="Finding Aid">http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=346</url>
+    </location>
+  </relatedItem>
+</mods:mods>
