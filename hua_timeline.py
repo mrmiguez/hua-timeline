@@ -32,7 +32,7 @@ tl = {'scale': 'human',
                           "credit": "",
                           "url": "http://myweb.fsu.edu/mmiguez/timeline/assets/images/heritageprotocol-graphic2.jpg",
                           "thumb": 	""},
-                "text": {"headline": "Welcome to the Heritage Protocol Timeline",
+                "text": {"headline": "Welcome to the Heritage & University Archives Timeline",
                          "text": "<p>This interactive timeline highlights a curated collection of Florida State University's history.</p><p>Click on the arrow to the right to learn more.</p>"}},}
 events = []
 tl.update(events=events)

@@ -23,8 +23,8 @@
 
 /* COLOR SCHEME
 ================================================== */
-@color-background: 				#FFF;
-@color-foreground: 				#333;
+@color-background: 				#f2f2f2;
+@color-foreground: 				#240000;
 @color-dark: 					#2C2A29;
 
 @color-theme:					#c34528; //#DA0000;
@@ -50,7 +50,7 @@
 ================================================== */
 @ui-background-color:			darken(@color-background, 5);
 @ui-background-color-darker:	darken(@color-background, 10);
-@marker-color: 					darken(@ui-background-color,5);
+@marker-color: 					@ui-background-color;
 @marker-outline-color: 			darken(@ui-background-color,10);
 @marker-selected-text-color: 	@color-background;
 @marker-text-color: 			darken(@marker-color,15);
