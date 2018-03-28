@@ -30,7 +30,7 @@ def img_lookup(pid):
 tl = {'scale': 'human',
       "title": {"media": {"caption": "",
                           "credit": "",
-                          "url": "http://myweb.fsu.edu/mmiguez/timeline/assets/images/heritageprotocol-graphic2.jpg",
+                          "url": "http://myweb.fsu.edu/mmiguez/timeline/assets/tl-timeline.jpg",
                           "thumb": 	""},
                 "text": {"headline": "Welcome to the Heritage & University Archives Timeline",
                          "text": "<p>This interactive timeline highlights a curated collection of Florida State University's history.</p><p>Click on the arrow to the right to learn more.</p>"}},}
